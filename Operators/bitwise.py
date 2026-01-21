@@ -1,0 +1,8 @@
+a=int(input("Enter the num1 value:"))
+b=int(input("Enter the num2 value:"))
+print(a & b)
+print(a | b)
+print( a ^ b)
+print(~a)
+print(a << 1)
+print(a >> 2)

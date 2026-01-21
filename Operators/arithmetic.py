@@ -1,0 +1,8 @@
+a=int(input("Enter the num1 value:"))
+b=int(input("Enter the num2 value:"))
+print("Addiction of num 1 and num 2 is", a + b)
+print("Subtraction of num1 and num 2 is", a - b)
+print("Multiplication of num1 and num2 is", a * b)
+print("Division of num1 and num2 is ", a / b)
+print("Floor Division of num1 and num2 is", a % b)
+print("Exponentional values of num1  and num2 is",a ** b)

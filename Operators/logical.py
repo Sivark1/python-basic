@@ -1,0 +1,6 @@
+a=int(input("Enter the num1 value:"))
+b=int(input("Enter the num2 value:"))
+c=int(input("Enter the num3 value:"))
+print (a>b and a>c)
+print(b > a and b > c)
+print(c > a and c > b)
